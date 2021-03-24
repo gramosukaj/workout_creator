@@ -3,7 +3,7 @@
 Personal project, Workout Creator give you to create your bodybuilding program and generate a pdf or an image.
 
 ## Database diagram
-![Cover](https://github.com/gramosukaj/gramosukaj/blob/master/img/coveri_skills.jpg)
+![Cover](https://github.com/workout_creator/database/database.jpg)
 
 ## Design
 - Home page
