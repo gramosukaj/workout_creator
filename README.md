@@ -9,7 +9,7 @@ Personal project, Workout Creator give you to create your bodybuilding program a
 - Home page
 ![Cover](https://github.com/gramosukaj/gramosukaj/blob/master/img/coveri_skills.jpg)
 - Create program
-![Cover](https://github.com/gramosukaj/workout_creator/blob/main/design/programme.pdf)
+![Cover](https://github.com/gramosukaj/workout_creator/blob/main/design/programme.png)
 
 
 ## Features
