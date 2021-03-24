@@ -20,3 +20,4 @@ The design was make with Adobe XD.
 - Create bodybuilding program and export it at pdf, jpg and png file.
 - Create your account and save your bodybuilding program and edit it later.
 - Share your bodybuilding program through an url.
+- Multilingual interface (FR / EN for the begining)
