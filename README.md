@@ -3,7 +3,7 @@
 Personal project, Workout Creator give you to create your bodybuilding program and generate a pdf or an image.
 
 ## Infos
-There is no usable version for the moment, the first version come in some few weeks / months. The first feature gonna be only create bodybuilding program and export it at pdf.
+There is no usable version for the moment, the first version come in some few weeks / months. The first feature gonna be only create bodybuilding program and export it at pdf file.
 
 ## Database diagram
 Not definitive, in reflection.
@@ -17,6 +17,6 @@ The design was make with Adobe XD.
 
 
 ## Features
-- Create bodybuilding program and export it at pdf, jpg and png.
+- Create bodybuilding program and export it at pdf, jpg and png file.
 - Create your account and save your bodybuilding program and edit it later.
 - Share your bodybuilding program through an url.
