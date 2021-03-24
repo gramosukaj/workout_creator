@@ -10,6 +10,7 @@ Not definitive, in reflection.
 ![Cover](https://github.com/gramosukaj/workout_creator/blob/main/database/database.jpg)
 
 ## Design
+The design was make with Adobe XD.
 - <a href="https://github.com/gramosukaj/workout_creator/blob/main/design/accueil.pdf">Home page design</a>
 - Create program
 ![Cover](https://github.com/gramosukaj/workout_creator/blob/main/design/programme.png)
