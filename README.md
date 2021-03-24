@@ -6,6 +6,7 @@ Personal project, Workout Creator give you to create your bodybuilding program a
 There is no usable version for the moment, the first version come in some few weeks / months. The first feature gonna be only create bodybuilding program and export it at pdf.
 
 ## Database diagram
+Not definitive, in reflection.
 ![Cover](https://github.com/gramosukaj/workout_creator/blob/main/database/database.jpg)
 
 ## Design
